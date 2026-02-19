@@ -1,0 +1,5 @@
+[{"id":"1","nome":"Djan Santos","email":"dj@ifba.edu.br","status":"Ativo","disciplina":"Programação para web I"},
+{"id":"2","nome":"Pablo Mato","email":"pm@ifba.edu.br","status":"Ativo","disciplina":"Banco de Dados"},
+{"id":"3","nome":"Luis Paulo","email":"lp@ifba.edu.br","status":"Ativo","disciplina":"Inteligência Artificial"},
+{"id":"4","nome":"Crescencio Rodrigues","email":"cr@ifba.edu.br","status":"Ativo","disciplina":"Projetos Web"}
+]
